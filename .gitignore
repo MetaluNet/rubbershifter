@@ -1,0 +1,8 @@
+## Build generated
+*.o
+*.pd_*
+build*/
+
+## RubberBand library
+rubberband-*
+
